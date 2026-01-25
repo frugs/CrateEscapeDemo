@@ -1,2 +1,2 @@
-# CrateEscapeDemo
-Demo version Web build for Crate Escape
+# Crate Escape Demo Version
+Play [here](latest/index.html)!
