@@ -40,7 +40,7 @@ canvas {
 #fs-overlay{
   position: fixed;
   inset: 0;
-  display: grid;
+  display: none;
   place-items: center;
   background: rgba(0,0,0,0.65);
   z-index: 9999;
