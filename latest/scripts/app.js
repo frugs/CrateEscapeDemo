@@ -27,7 +27,7 @@ function initializeGame() {
         streamingAssetsUrl: "StreamingAssets",
         companyName: "EkHypnon",
         productName: "Crate Escape",
-        productVersion: "0.0.0.27",
+        productVersion: "0.0.0.28",
     }).then((unityInstance) => {
         console.log("Unity instance created successfully");
 
